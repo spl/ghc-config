@@ -1,0 +1,5 @@
+:set stop :list
+
+-- Don't use this. Causes unwanted breaks.
+-- :set -fbreak-on-error
+
