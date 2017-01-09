@@ -1,5 +1,5 @@
 :set stop :list
+:set -XOverloadedStrings
 
 -- Don't use this. Causes unwanted breaks.
 -- :set -fbreak-on-error
-
